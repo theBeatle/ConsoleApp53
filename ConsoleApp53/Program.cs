@@ -10,6 +10,7 @@ namespace ConsoleApp53
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi to all!!!");
         }
     }
 }
